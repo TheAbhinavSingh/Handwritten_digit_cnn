@@ -45,7 +45,7 @@ The MNIST dataset consists of:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/AKSHATV25/Handwritten_digit_cnn.git
+git clone https://github.com/TheAbhinavSingh/Handwritten_digit_cnn.git
 cd Handwritten_digit_cnn
 
 Set up a virtual environment:
